@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/*
+testefs.js
+package-lock.json
